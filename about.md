@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A project about borderlands using Jekyll.
+A project about borderlands using Jekyll. This project was created at DHSI2015.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
